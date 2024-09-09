@@ -1,8 +1,21 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Prueba
+baseurl: "/prueba" # the subpath of your site, e.g. /blog
+remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+back_to_top: true
+back_to_top_text: "Back to top"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+callouts:
+  important:
+    title: Key result
+    color: green
+  highlight:
+    color: yellow
+  core:
+    color: purple
+  fact:
+    title: Key fact
+    color: blue
+  assumption:
+    title: Key assumption
+    color: yellow

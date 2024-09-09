@@ -1,21 +1,17 @@
-title: Prueba
-baseurl: "/prueba" # the subpath of your site, e.g. /blog
-remote_theme: just-the-docs/just-the-docs
+# _config.yml
 
-back_to_top: true
-back_to_top_text: "Back to top"
+# Título del sitio
+title: "Mi Documentación"
 
-callouts:
-  important:
-    title: Key result
-    color: green
-  highlight:
-    color: yellow
-  core:
-    color: purple
-  fact:
-    title: Key fact
-    color: blue
-  assumption:
-    title: Key assumption
-    color: yellow
+# Menú de navegación lateral
+just_the_docs:
+  show_sidebar: true  # Habilita el menú lateral
+  aux_links:  # Puedes agregar enlaces externos si lo deseas
+    "GitHub Repo": 
+      - https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO
+
+# Navegación
+nav:
+  - Home: index.md
+  - Introducción: docs/intro.md
+  - Guía rápida: docs/guia-rapida.md

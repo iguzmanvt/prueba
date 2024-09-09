@@ -8,7 +8,7 @@ just_the_docs:
   show_sidebar: true  # Habilita el menú lateral
   aux_links:  # Puedes agregar enlaces externos si lo deseas
     "GitHub Repo": 
-      - https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO
+      - https://github.com/iguzmanvt/prueba/
 
 # Navegación
 nav:

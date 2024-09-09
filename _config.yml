@@ -1,23 +1,8 @@
-# _config.yml
-
-# Título del sitio
-title: "Mi Documentación"
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-# Menú de navegación lateral
-just_the_docs:
-  show_sidebar: true  # Habilita el menú lateral
-  aux_links:  # Puedes agregar enlaces externos si lo deseas
-    "GitHub Repo": 
-      - https://github.com/iguzmanvt/prueba/
-
-# Navegación
-nav:
-  - Home: index.md
-  - Introducción: docs/intro.md
-  - Guía rápida: docs/guia-rapida.md

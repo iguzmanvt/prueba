@@ -23,3 +23,10 @@ Moreover, conditions of social backwardness, such as low labor participation and
 This document aims to provide a comprehensive and detailed vision of why investing in Mexico makes economic sense, focusing on the evolution of GDP at both national and regional levels and how this translates into investment and development opportunities. This analysis will extend to the long run, offering a long-term perspective that allows investors to make informed decisions.
 
 Through an analysis of macroeconomic trends, regional dynamics, and key sectors of the economy, this document seeks to delineate a path towards sustainable and inclusive economic growth. It will consolidate various perspectives and forecasts on the Mexican economy, providing a consensual vision of long-term economic development. The document will explain discrepancies between Mexico's real GDP growth and published series, offer an overview of national macroeconomic metric trends in the short and long run, provide a detailed vision of GDP growth by sector and key region, explain relevant regional dynamics and specificities, and include a brief characterization of the economy of each of Mexico's regions.
+
+## Main sections
+
+1. [Consolidated Macroeconomic Forecast Analysis in the Short Term](docs/short-term-forecast.md)
+2. [Mexico's Long-Term Economic Growth and Investment Attractiveness](docs/long-term-growth.md)
+3. [Regional Level Mexican Economy](docs/regional-economy.md)
+4. [Strategic Sectors](docs/strategic-sectors.md)

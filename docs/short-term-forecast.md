@@ -1,7 +1,7 @@
 ---
 title: "Consolidated Macroeconomic Forecast Analysis in the Short Term"
 layout: default
-nav_order: 2
+nav_order: 1
 ---
 
 # Consolidated Macroeconomic Forecast Analysis in the Short Term
@@ -10,9 +10,9 @@ Esta sección proporciona un análisis detallado de las proyecciones económicas
 
 ## Sub-Secciones
 
-1. [Consensus Forecast: Mexico's Economic Outlook](docs/consensus-forecast)
-2. [Real GDP Growth Projections](docs/real-gdp-growth-projections)
-3. [National Shared Projections for 2024](docs/national-shared-projections-2024)
-4. [National Shared Projections for 2025](docs/national-shared-projections-2025)
-5. [Inflation Rate Trends](docs/inflation-rate-trends)
-6. [Exchange Rate Projections](docs/exchange-rate-projections)
+1. [Consensus Forecast: Mexico's Economic Outlook](./short-term-forecast/consensus-forecast.html)
+2. [Real GDP Growth Projections](./short-term-forecast/real-gdp-growth-projections.html)
+3. [National Shared Projections for 2024](./short-term-forecast/national-shared-projections-2024.html)
+4. [National Shared Projections for 2025](./short-term-forecast/national-shared-projections-2025.html)
+5. [Inflation Rate Trends](./short-term-forecast/inflation-rate-trends.html)
+6. [Exchange Rate Projections](./short-term-forecast/exchange-rate-projections.html)

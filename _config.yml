@@ -29,6 +29,8 @@ callouts:
 just_the_docs:
   show_nav: true
   show_toc: true  
+  custom_css:
+    - assets/css/custom.css
 baseurl: "/prueba"
 
 # Footer last edited timestamp

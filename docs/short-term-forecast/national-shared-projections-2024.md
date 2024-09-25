@@ -44,12 +44,18 @@ CMM anticipates slower growth rates for 2024 and 2025 compared to 2023, with an 
 
 ### Graph 1 – GDP Forecasts by SHCP and CMM, 2024-2025, millions of 2018 pesos.
 
-<!-- <iframe style="width:100%; height:600px;" frameborder="0" scrolling="no" src="https://plotly.com/~iguzmanv/309.embed"></iframe> -->  
+<div class="iframe-container">
+  <iframe style="width:100%; height:600px;" frameborder="0" scrolling="no" src="https://plotly.com/~iguzmanv/309.embed"></iframe>
+</div>
+ 
 *Date up to Q2-2024, 2024 and 2025: Projected by SHCP and CMM*  
 *Source: INEGI, SHCP (CGPE)*
 
 ### Graph 2 – Quarterly GDP Growth Estimates by CMM
 
-<!-- <iframe style="width:100%; height:600px;" frameborder="0" scrolling="no" src="https://plotly.com/~iguzmanv/307.embed"></iframe> --> 
+<div class="iframe-container">
+  <iframe style="width:100%; height:600px;" frameborder="0" scrolling="no" src="https://plotly.com/~iguzmanv/307.embed"></iframe>
+</div>
+
 *Date up to Q2-2024, 2024 and 2025: Projected by SHCP and CMM*  
 *Source: INEGI, SHCP (CGPE)*

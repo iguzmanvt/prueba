@@ -29,6 +29,7 @@ callouts:
 just_the_docs:
   show_nav: true
   show_toc: true  
+baseurl: "/prueba"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

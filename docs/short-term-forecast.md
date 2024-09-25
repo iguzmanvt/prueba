@@ -10,7 +10,7 @@ Esta sección proporciona un análisis detallado de las proyecciones económicas
 
 ## Sub-Secciones
 
-1. [Consensus Forecast: Mexico's Economic Outlook](./short-term-forecast/consensus-forecast)
+1. [Consensus Forecast: Mexico's Economic Outlook](short-term-forecast/consensus-forecast)
 2. [Real GDP Growth Projections](./short-term-forecast/real-gdp-growth-projections.html)
 3. [National Shared Projections for 2024](./short-term-forecast/national-shared-projections-2024.html)
 4. [National Shared Projections for 2025](./short-term-forecast/national-shared-projections-2025.html)

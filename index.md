@@ -26,8 +26,9 @@ Through an analysis of macroeconomic trends, regional dynamics, and key sectors 
 
 ## Main sections
 
-1. [Consolidated Macroeconomic Forecast Analysis in the Short Term](docs/short-term-forecast/short-term-forecast.md)
-2. [Mexico's Long-Term Economic Growth and Investment Attractiveness](docs/long-term-growth.md)
-3. [Regional Level Mexican Economy](docs/regional-economy.md)
-4. [Strategic Sectors](docs/strategic-sectors.md)
+1. [Consolidated Macroeconomic Forecast Analysis in the Short Term](docs/short-term-forecast/short-term-forecast)
+2. [Mexico's Long-Term Economic Growth and Investment Attractiveness](docs/long-term-growth)
+3. [Regional Level Mexican Economy](docs/regional-economy)
+4. [Strategic Sectors](docs/strategic-sectors)
+
 

@@ -59,3 +59,11 @@ CMM anticipates slower growth rates for 2024 and 2025 compared to 2023, with an 
 
 *Date up to Q2-2024, 2024 and 2025: Projected by SHCP and CMM*  
 *Source: INEGI, SHCP (CGPE)*
+
+## Additional Analyses
+
+1. [US Economic Deceleration Impact]({{ site.baseurl }}/docs/short-term-forecast/national-shared-projections-2024/us-economic-deceleration-impact.html)
+2. [Investment Deceleration Analysis for 2024]({{ site.baseurl }}/docs/short-term-forecast/national-shared-projections-2024/investment-deceleration-analysis-2024.html)
+3. [Consumption Deceleration Analysis for 2024]({{ site.baseurl }}/docs/short-term-forecast/national-shared-projections-2024/consumption-deceleration-analysis-2024.html)
+4. [Export Deceleration Analysis for 2024]({{ site.baseurl }}/docs/short-term-forecast/national-shared-projections-2024/export-deceleration-analysis-2024.html)
+

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Consensus Forecast: Mexico's Economic Outlook"
 parent: "Consolidated Macroeconomic Forecast Analysis in the Short Term"
 nav_order: 1
